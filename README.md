@@ -1,2 +1,2 @@
 # platformer-framework
-second semester platformer game framework
+2d platformer game framework in c#
